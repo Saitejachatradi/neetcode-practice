@@ -1,0 +1,1 @@
+SELECT Distinct customer_id FROM CUSTOMERS WHERE REVENUE > 0
